@@ -1,0 +1,4 @@
+calculate NDW
+quantile of order 1/6
+calculate indicators without remove stopwords
+repeated indicators like: W, RIX, S.1, CP.T, CN.T
